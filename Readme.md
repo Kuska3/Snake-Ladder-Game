@@ -20,7 +20,7 @@ This is a simple **Snake and Ladder** game implemented in **C++**. It allows two
 
 In the game, landing on these numbers will move the player up:
 
-Start Position                      End Position
+Start Position            ,          End Position
 
     6     (L)                            46
 
@@ -48,7 +48,7 @@ This helps progress faster in the game!
 ## 🚀 How to Run
 1. **Compile the code** using a C++ compiler (e.g., g++):
    ```sh
-   g++ snake_ladder_game.cpp -o snake_ladder
+   g++ Game.cpp -o snake_ladder
    ```
 2. **Run the executable:**
    ```sh
