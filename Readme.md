@@ -20,7 +20,7 @@ This is a simple **Snake and Ladder** game implemented in **C++**. It allows two
 
 In the game, landing on these numbers will move the player up:
 
-Start Position            ,          End Position
+Start Position&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End Position
 
     6     (L)                            46
 
@@ -36,8 +36,8 @@ Start Position            ,          End Position
 
     98    (S)                            88
 
-Ladder - (L)
-Snake  - (S)
+🪜Ladder - (L),
+🐍Snake  - (S)
 
 🎯 How Ladders Work
 
